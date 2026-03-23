@@ -50,6 +50,3 @@ docker-compose up --build
 - `DELETE /api/expenses/{id}` - Delete expense
 - `GET /api/expenses/summary?startDate=&endDate=` - Get expense summary
 
-## License
-
-MIT
